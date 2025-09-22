@@ -1,0 +1,10 @@
+[package]
+name = "lucy"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "Lucy wields wgpu shader magic."
+repository = "https://github.com/Miodic/Lucy"
+publish = false
+
+[dependencies]
